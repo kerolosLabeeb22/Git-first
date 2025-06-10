@@ -27,6 +27,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/keroloslabd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/keroloslabd" /></a></p><br><br>
 
+<img src="https://github.com/user-attachments/assets/7dad7327-f84c-49ed-96db-62208cc284b9">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keroloslabeeb22&show_icons=true&locale=en&layout=compact" alt="keroloslabeeb22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keroloslabeeb22&show_icons=true&locale=en" alt="keroloslabeeb22" /></p>
